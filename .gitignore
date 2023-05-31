@@ -16,6 +16,9 @@
 #IDEA files
 *.iml
 
+#target folder
+target
+
 # Package Files #
 *.jar
 *.war
